@@ -7,4 +7,5 @@ def array_with_two_elements
   array = ["One", "Two"]
 end
 
-def first_element
+def first_element(array)
+  
