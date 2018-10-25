@@ -1,3 +1,3 @@
-def my_array
+def 
   my_array = []
 end
